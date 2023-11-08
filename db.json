@@ -1,132 +1,130 @@
 {
-  "products": {
-    "smartphones": [
-      {
-        "id": 1,
-        "name": "Smartphone 1",
-        "price": 599.99,
-        "description": "Lorem ipsum description for Smartphone 1",
-        "image": "smartphone1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Smartphone 2",
-        "price": 699.99,
-        "description": "Lorem ipsum description for Smartphone 2",
-        "image": "smartphone2.jpg"
-      }
-    ],
-    "laptops": [
-      {
-        "id": 1,
-        "name": "Laptop 1",
-        "price": 999.99,
-        "description": "Lorem ipsum description for Laptop 1",
-        "image": "laptop1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Laptop 2",
-        "price": 1199.99,
-        "description": "Lorem ipsum description for Laptop 2",
-        "image": "laptop2.jpg"
-      }
-    ],
-    "home_appliances": [
-      {
-        "id": 1,
-        "name": "Refrigerator",
-        "price": 799.99,
-        "description": "Lorem ipsum description for Refrigerator",
-        "image": "refrigerator.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Washing Machine",
-        "price": 499.99,
-        "description": "Lorem ipsum description for Washing Machine",
-        "image": "washing_machine.jpg"
-      }
-    ],
-    "audio_headphones": [
-      {
-        "id": 1,
-        "name": "Headphones 1",
-        "price": 149.99,
-        "description": "Lorem ipsum description for Headphones 1",
-        "image": "headphones1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Headphones 2",
-        "price": 199.99,
-        "description": "Lorem ipsum description for Headphones 2",
-        "image": "headphones2.jpg"
-      }
-    ],
-    "wearable_tech": [
-      {
-        "id": 1,
-        "name": "Smartwatch 1",
-        "price": 199.99,
-        "description": "Lorem ipsum description for Smartwatch 1",
-        "image": "smartwatch1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Fitness Tracker",
-        "price": 79.99,
-        "description": "Lorem ipsum description for Fitness Tracker",
-        "image": "fitness_tracker.jpg"
-      }
-    ],
-    "gaming_devices": [
-      {
-        "id": 1,
-        "name": "Gaming Console 1",
-        "price": 399.99,
-        "description": "Lorem ipsum description for Gaming Console 1",
-        "image": "gaming_console1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Gaming Keyboard",
-        "price": 89.99,
-        "description": "Lorem ipsum description for Gaming Keyboard",
-        "image": "gaming_keyboard.jpg"
-      }
-    ],
-    "camera_photography": [
-      {
-        "id": 1,
-        "name": "DSLR Camera",
-        "price": 699.99,
-        "description": "Lorem ipsum description for DSLR Camera",
-        "image": "dslr_camera.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Camera Lens",
-        "price": 299.99,
-        "description": "Lorem ipsum description for Camera Lens",
-        "image": "camera_lens.jpg"
-      }
-    ],
-    "accessories": [
-      {
-        "id": 1,
-        "name": "Phone Case",
-        "price": 19.99,
-        "description": "Lorem ipsum description for Phone Case",
-        "image": "phone_case.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Laptop Bag",
-        "price": 49.99,
-        "description": "Lorem ipsum description for Laptop Bag",
-        "image": "laptop_bag.jpg"
-      }
-    ]
-  }
+  "smartphones": [
+    {
+      "id": 1,
+      "name": "Smartphone 1",
+      "price": 599.99,
+      "description": "Lorem ipsum description for Smartphone 1",
+      "image": "smartphone1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone 2",
+      "price": 699.99,
+      "description": "Lorem ipsum description for Smartphone 2",
+      "image": "smartphone2.jpg"
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "name": "Laptop 1",
+      "price": 999.99,
+      "description": "Lorem ipsum description for Laptop 1",
+      "image": "laptop1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop 2",
+      "price": 1199.99,
+      "description": "Lorem ipsum description for Laptop 2",
+      "image": "laptop2.jpg"
+    }
+  ],
+  "home_appliances": [
+    {
+      "id": 1,
+      "name": "Refrigerator",
+      "price": 799.99,
+      "description": "Lorem ipsum description for Refrigerator",
+      "image": "refrigerator.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Washing Machine",
+      "price": 499.99,
+      "description": "Lorem ipsum description for Washing Machine",
+      "image": "washing_machine.jpg"
+    }
+  ],
+  "audio_headphones": [
+    {
+      "id": 1,
+      "name": "Headphones 1",
+      "price": 149.99,
+      "description": "Lorem ipsum description for Headphones 1",
+      "image": "headphones1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Headphones 2",
+      "price": 199.99,
+      "description": "Lorem ipsum description for Headphones 2",
+      "image": "headphones2.jpg"
+    }
+  ],
+  "wearable_tech": [
+    {
+      "id": 1,
+      "name": "Smartwatch 1",
+      "price": 199.99,
+      "description": "Lorem ipsum description for Smartwatch 1",
+      "image": "smartwatch1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fitness Tracker",
+      "price": 79.99,
+      "description": "Lorem ipsum description for Fitness Tracker",
+      "image": "fitness_tracker.jpg"
+    }
+  ],
+  "gaming_devices": [
+    {
+      "id": 1,
+      "name": "Gaming Console 1",
+      "price": 399.99,
+      "description": "Lorem ipsum description for Gaming Console 1",
+      "image": "gaming_console1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gaming Keyboard",
+      "price": 89.99,
+      "description": "Lorem ipsum description for Gaming Keyboard",
+      "image": "gaming_keyboard.jpg"
+    }
+  ],
+  "camera_photography": [
+    {
+      "id": 1,
+      "name": "DSLR Camera",
+      "price": 699.99,
+      "description": "Lorem ipsum description for DSLR Camera",
+      "image": "dslr_camera.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Camera Lens",
+      "price": 299.99,
+      "description": "Lorem ipsum description for Camera Lens",
+      "image": "camera_lens.jpg"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 1,
+      "name": "Phone Case",
+      "price": 19.99,
+      "description": "Lorem ipsum description for Phone Case",
+      "image": "phone_case.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Bag",
+      "price": 49.99,
+      "description": "Lorem ipsum description for Laptop Bag",
+      "image": "laptop_bag.jpg"
+    }
+  ]
 }

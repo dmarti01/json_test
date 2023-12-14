@@ -1,27 +1,59 @@
-[
-  {
-    "id": 1,
-    "title": "Forum Topic 1",
-    "body": "Body of Forum Topic 1"
-  },
-  {
-    "id": 2,
-    "title": "Forum Topic 2",
-    "body": "Body of Forum Topic 2"
-  },
-  {
-    "id": 3,
-    "title": "Forum Topic 3",
-    "body": "Body of Forum Topic 3"
-  },
-  {
-    "id": 4,
-    "title": "Forum Topic 4",
-    "body": "Body of Forum Topic 4"
-  },
-  {
-    "id": 5,
-    "title": "Forum Topic 5",
-    "body": "Body of Forum Topic 5"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Tips for Maintaining Tech Gadgets",
+      "body": "Share tips and tricks for extending the lifespan and maintaining technical devices, such as smartphones, laptops, and other gadgets."
+    },
+    {
+      "id": 2,
+      "title": "Photography Corner",
+      "body": "Showcase your latest photos of equipment from your webshop. Discuss photography techniques and tips for capturing product shots."
+    },
+    {
+      "id": 3,
+      "title": "Product Reviews",
+      "body": "Users can share their reviews and impressions of products they purchased from the webshop. This may include images of the products in use."
+    },
+    {
+      "id": 4,
+      "title": "Product Q&A",
+      "body": "A place where users can ask questions about products, and the community can provide answers and insights."
+    },
+    {
+      "id": 5,
+      "title": "New Product Ideas",
+      "body": "Users can suggest and discuss potential new products or features they would like to see in the webshop."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Great tip! I would have never thought I could extend my phone's lifespan that way.",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "This is a fantastic topic. Here are some of my photos of equipment from the webshop!",
+      "postId": 2
+    },
+    {
+      "id": 3,
+      "body": "I've had this product for a month now, and I'm absolutely thrilled with it!",
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "body": "How do you use this product? Any experiences to share?",
+      "postId": 4
+    },
+    {
+      "id": 5,
+      "body": "I have an idea for a completely new product. Does anyone think it would be useful?",
+      "postId": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
